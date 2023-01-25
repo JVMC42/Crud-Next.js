@@ -3,4 +3,4 @@
 <a href="https://crud-next-js-seven.vercel.app/"> Acesse Aqui</a>
 <hr/>
 
-<img src="./public/readmeGif.gif" width="900" height="500"/>
+<img src="https://media1.giphy.com/media/MAnSlDfcRbjPaSF9Ub/giphy.gif?cid=790b761126b89eb176f3c3278bf053a285c23dee808c1ede&rid=giphy.gif&ct=g"/>
